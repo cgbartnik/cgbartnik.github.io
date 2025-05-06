@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Home"
+layout: home
+permalink: /home/
 author_profile: true
 ---
