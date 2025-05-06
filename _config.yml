@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Clemens Georg Bartnik"
+  avatar : "https://avatars.githubusercontent.com/u/32767614?v=4"
   bio    : "I want to write new text here. I'm Clemens Bartnik"
   links:
     - label: "CV"
