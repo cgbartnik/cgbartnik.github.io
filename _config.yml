@@ -53,7 +53,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  #- jekyll-feed
+  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -63,13 +63,16 @@ author:
   bio    : "I want to write new text here. I'm Clemens Bartnik"
   location         : "Amsterdam - The Netherlands"
   email            : "clemens-bartnik@t-online.de"
+  
   links:
-    - label: "CV"
-      icon: "fas fa-file-alt"
-      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cgbartnik"
+
+    - label: "CV"
+      icon: "fas fa-file-alt"
+      url: "https://"
+
 
 footer:
   #links:
