@@ -89,10 +89,10 @@ footer:
 defaults:
   - scope:
       path: ""
-      type: works
+      type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: false
       share: true
