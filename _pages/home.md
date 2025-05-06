@@ -5,5 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-Welcome! I'm Clemens Bartnik, a researcher in cognitive computational neuroscience at University of Amsterdam.  
-This is my academic website. Check out my work below.
+Welcome! I’m Clemens Bartnik, a researcher in [your field].
+
+Check out my [Work](/work/) to see my academic projects and publications.
