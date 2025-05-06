@@ -2,6 +2,8 @@
 layout: single
 title: "Home"
 permalink: /
+author_profile: true
 ---
 
-Welcome to my personal academic website. I'm a researcher in computational cognitve neuroscience, currently at University of Amsterdam.
+Welcome! I'm Clemens Bartnik, a researcher in cognitive computational neuroscience at University of Amsterdam.  
+This is my academic website. Check out my work below.
