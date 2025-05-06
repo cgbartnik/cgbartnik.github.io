@@ -1,29 +1,33 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "New Review Paper: Scene Perception in the Human Brain"
+date: 2023-11-01
 categories:
-  - blog
+  - research
 tags:
-  - Jekyll
-  - update
+  - publication
+  - neuroscience
+  - scene perception
+  - review
+  - ORE
+excerpt: "Our new review paper on scene perception just came out in the Oxford Research Encyclopedia of Neuroscience."
+header:
+  overlay_image: /assets/images/review_paper.png
+  caption: "Bartnik et al. (2023) — Scene Perception Review"
+  overlay_filter: 0.3
+  actions:
+    - label: "View Paper"
+      url: "https://oxfordre.com/neuroscience/display/10.1093/acrefore/9780190264086.001.0001/acrefore-9780190264086-e-437"
+    - label: "Download PDF"
+      url: "https://drive.google.com/file/d/1N4FRxjuFOj5uQFdtUUocxdrKlwv_SqFN/view?usp=sharing"
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Our review on **scene perception in the human brain** has just been published in the *Oxford Research Encyclopedia of Neuroscience*.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+We discuss object-, space-, and affordance-centered representations of scenes, summarizing behavioral, fMRI, and M/EEG evidence for their presence in the human brain. The paper also explores how computational modeling and deep learning can help elucidate these mechanisms.
 
-Jekyll also offers powerful support for code snippets:
+🔗 [Read it online at Oxford Research Encyclopedia](https://oxfordre.com/neuroscience/display/10.1093/acrefore/9780190264086.001.0001/acrefore-9780190264086-e-437)  
+📄 [Download PDF](https://drive.google.com/file/d/1N4FRxjuFOj5uQFdtUUocxdrKlwv_SqFN/view?usp=sharing)
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+---
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+If you're interested in cognitive neuroscience, scene representation, or how deep learning intersects with the brain — this is for you!
