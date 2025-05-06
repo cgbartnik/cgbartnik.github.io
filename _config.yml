@@ -82,18 +82,17 @@ footer:
     #  url: "https://instagram.com/"
 
 defaults:
-  # _posts
   - scope:
-      path: "_works"
-      type: posts
+      path: ""
+      type: works
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
-  # _pages
+
   - scope:
       path: "_pages"
       type: pages
@@ -107,3 +106,8 @@ defaults:
 #tag_archive:
 #  type: liquid
 #  path: /tags/
+
+collections:
+  works:
+    output: true
+    permalink: /work/:title/

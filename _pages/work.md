@@ -1,8 +1,9 @@
 ---
-layout: single
+layout: collection
 title: "Work"
-permalink: /works/
-#author_profile: true
+permalink: /work/
+collection: works
+author_profile: true
 ---
 
-Here's a list of my academic work, projects, and publications.
+A selection of my academic and technical work.
