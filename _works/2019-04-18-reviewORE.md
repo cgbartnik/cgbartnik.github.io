@@ -10,6 +10,9 @@ tags:
   - review
   - ORE
 excerpt: "Our new review paper on scene perception just came out in the Oxford Research Encyclopedia of Neuroscience."
+image:
+  path: /assets/images/review_paper.png
+  alt: "Scene perception paper thumbnail"
 header:
   overlay_image: /assets/images/review_paper.png
   caption: "Bartnik et al. (2023) — Scene Perception Review"
