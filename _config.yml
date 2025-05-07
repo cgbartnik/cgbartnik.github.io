@@ -73,6 +73,11 @@ author:
       icon: "fas fa-file-alt"
       url: "https://"
 
+    - label: "OSF"
+      icon: "fa-solid fa-database"
+      url: "https://osf.io/v3rcq/"
+
+
 
 footer:
   #links:
