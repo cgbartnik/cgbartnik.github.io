@@ -83,7 +83,8 @@ author:
 
 
 
-
+header:
+  show_title: false
 
 footer:
   #links:
