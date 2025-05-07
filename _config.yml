@@ -16,13 +16,7 @@
 title: " "  # Keep this for metadata (can be hidden visually)
 logo: "/assets/images/CB_logo.png"
 
-# Optional: hide text site title
-header:
-  show_title: false      
 
-custom_css:
-  - /assets/css/custom.css
-  
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
