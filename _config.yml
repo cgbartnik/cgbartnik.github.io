@@ -16,7 +16,6 @@
 title: " "  # Keep this for metadata (can be hidden visually)
 logo: "/assets/images/CB_logo.png"
 
-
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -100,7 +99,7 @@ footer:
 defaults:
   - scope:
       path: ""
-      type: works
+      type: publications
     values:
       layout: single
       author_profile: true
@@ -124,6 +123,6 @@ defaults:
 #  path: /tags/
 
 collections:
-  works:
+  publications:
     output: true
-    permalink: /work/:title/
+    permalink: /publications/:title/

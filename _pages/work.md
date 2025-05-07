@@ -1,8 +1,8 @@
 ---
 layout: collection
-title: "Work"
-permalink: /work/
-collection: works
+title: "Publications"
+permalink: /publications/
+collection: publications
 #author_profile: true
 ---
 
