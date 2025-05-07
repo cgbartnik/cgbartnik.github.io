@@ -77,6 +77,12 @@ author:
       icon: "fa-solid fa-database"
       url: "https://osf.io/v3rcq/"
 
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=I0GffJsAAAAJ&hl=de"
+
+
+
 
 
 footer:
