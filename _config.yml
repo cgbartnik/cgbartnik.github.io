@@ -100,7 +100,7 @@ footer:
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: works
     values:
       layout: single
       author_profile: true

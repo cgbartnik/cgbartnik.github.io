@@ -1,6 +1,7 @@
 ---
 title: "New Review Paper: Scene Perception in the Human Brain"
 date: 2023-11-01
+layout: single
 categories:
   - research
 tags:

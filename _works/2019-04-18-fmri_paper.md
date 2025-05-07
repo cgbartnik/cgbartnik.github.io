@@ -1,6 +1,7 @@
 ---
 title: "New fMRI Paper: Distinct Representation of Locomotive Affordances in Brains and Models"
 date: 2024-07-14
+layout: single
 categories:
   - research
 tags:
