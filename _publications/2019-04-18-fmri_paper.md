@@ -11,7 +11,7 @@ tags:
   - affordances
   - scene perception
   - deep learning
-excerpt: "Our fMRI and behavioral study published in PNAS reveals that human visual cortex distinctly represents locomotive affordances in scenes—beyond what current DNNs can model."
+excerpt: "Our fMRI and behavioral study, published in PNAS, reveals that human visual cortex distinctly represents locomotive affordances in scenes—beyond what current DNNs can model."
 image:
   path: assets/images/michael-olsen-YWxfEBlvoiI-unsplash.jpg
   alt: "Thumbnail of fMRI study on action affordances"
@@ -21,43 +21,51 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "Read Abstract"
-      url: "https://doi.org/10.1073/pnas.2411683121"
+      url: "https://doi.org/10.1101/2024.05.15.594298"
     - label: "Download PDF"
       url: "/assets/papers/2024-bartnik-affordances-fmri.pdf"
 ---
 
-## Overview  
-Our **fMRI and behavioral study**, published in *PNAS*, shows that **scene-selective areas of the brain — PPA and OPA — distinctly represent locomotive action affordances**, such as walking, biking, or swimming. These representations go beyond recognizing objects or surfaces and reflect the possibilities for movement that a scene affords.  
+# Chapter 3: Representation of locomotive action affordances in human behavior, brains and deep neural networks  
 
-By combining **behavioral ratings**, **multi-voxel fMRI data**, and **deep neural network (DNN) models**, we investigated how humans perceive these action opportunities — and compared them to what current AI models can capture.  
+**Published as:**  
+Bartnik, C. G., Sartzetaki, C., Puigseslloses Sanchez, A., Molenkamp, E., Bommer, S., Vukšić, N., & Groen, I. I. A. (2024). *Distinct representation of locomotive action affordances in human behavior, brains and deep neural networks.* *Proceedings of the National Academy of Sciences (PNAS).*  
+Currently available as a preprint: [bioRxiv, 2024](https://doi.org/10.1101/2024.05.15.594298)  
+
+This study was also featured in a press release from the University of Amsterdam:  
+[What the human brain can do that AI can’t](https://www.uva.nl/en/content/news/press-releases/2025/06/what-the-human-brain-can-do-that-ai-cant.html)  
 
 ---
+
+## Overview  
+Building on the affordance-centered framework and our prior review (Chapter 2), this fMRI study investigates how the brain represents locomotive action affordances—such as walking, climbing, or swimming—in complex real-world scenes.  
+
+Using behavioral ratings, multi-voxel fMRI data, and deep neural network (DNN) models, we show that scene-selective regions, particularly the Occipital Place Area (OPA) and Parahippocampal Place Area (PPA), encode affordances independently of other visual scene features.  
+
+These results provide the first clear evidence for locomotive action affordance perception, reinforcing the role of OPA, revealing PPA as an additional key region, and demonstrating that affordances are encoded distinctly from objects and spatial layout in the brain.  
+
+---
+
 <p align="center">
   <img src="/assets/images/fmri_website_image.png" alt="fMRI overview of affordance representations" width="1000"><br>
-  <em>fMRI reveals distinct affordance representations in PPA and OPA, beyond objects and surfaces.</em>
+  <em>fMRI reveals distinct affordance representations in OPA and PPA, beyond objects and spatial layout.</em>
 </p>
 
 ## Why this matters  
- **Key finding**: The human visual cortex encodes affordances in a **task-independent and distinct way**, not explained by objects or materials alone.  
+When we look at a scene—whether a staircase, a street, or a swimming pool—the brain does more than recognize objects and surfaces. It also evaluates how we can move through it. These action possibilities, or affordances, are fundamental for guiding behavior.  
 
- **AI models fall short**: State-of-the-art DNNs trained on object or scene recognition (e.g., CLIP, ViTs) could only partially explain human brain representations. Encouragingly, **multimodal models like GPT-4**, when prompted appropriately, show potential for better alignment.  
-
----
-
-<p align="center">
-  <img src="/assets/images/fmri_website_image.png" alt="fMRI overview of affordance representations" width="1000"><br>
-  <em>fMRI reveals distinct affordance representations in PPA and OPA, beyond objects and surfaces.</em>
-</p>
+Our findings show that the brain contains specialized mechanisms for affordance perception—mechanisms that current AI models only capture partially. This opens new questions about how to build more human-aligned AI systems that understand environments not only in terms of what is in them, but also in terms of what can be done in them.  
 
 ---
 
-## Further reading  
-This research was also featured in a **press release from the University of Amsterdam**:  
- [What the human brain can do that AI can’t](https://www.uva.nl/en/content/news/press-releases/2025/06/what-the-human-brain-can-do-that-ai-cant.html)  
+## Highlights from research  
+- fMRI reveals that both OPA and PPA encode locomotive affordances, each making distinct and complementary contributions.  
+- Affordances are represented independently of object identity or low-level visual features.  
+- Current DNNs capture some aspects of affordance structure, but none fully align with human behavior. Training on affordance labels or using affordance-focused language embeddings improves alignment, but important gaps remain.  
 
-🔗 [Read the abstract at PNAS](https://doi.org/10.1073/pnas.2411683121)  
-📄 [Download the PDF](/assets/papers/2024-bartnik-affordances-fmri.pdf)  
 
 ---
 
-This work expands our understanding of **affordance perception** and lays the groundwork for **more human-aligned visual AI models**.  
+[Read the preprint on bioRxiv](https://doi.org/10.1101/2024.05.15.594298)  
+[Download the PDF](/assets/papers/2024-bartnik-affordances-fmri.pdf)  
+[Read the UvA press release](https://www.uva.nl/en/content/news/press-releases/2025/06/what-the-human-brain-can-do-that-ai-cant.html)  
