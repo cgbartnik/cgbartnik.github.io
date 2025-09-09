@@ -32,7 +32,7 @@ We combined **behavioral ratings**, **multi-voxel fMRI data**, and **deep neural
 
 
 <p align="center">
-  <img src="/assets/images/fmri_website_image.png" alt="Overview of scene perception approaches" width="800"><br>
+  <img src="/assets/images/fmri_website_image.png" alt="Overview of scene perception approaches" width="1200"><br>
   <em>Overview of object-, space-, and affordance-centered approaches to scene perception.</em>
 </p>
 
