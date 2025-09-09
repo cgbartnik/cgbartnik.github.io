@@ -32,7 +32,7 @@ We combined **behavioral ratings**, **multi-voxel fMRI data**, and **deep neural
 
 
 <p align="center">
-  <img src="assets/images/0046_outdoor_manmade.jpg" alt="Overview of scene perception approaches" width="600"><br>
+  <img src="/assets/images/0046_outdoor_manmade.jpg" alt="Overview of scene perception approaches" width="600"><br>
   <em>Overview of object-, space-, and affordance-centered approaches to scene perception.</em>
 </p>
 
@@ -41,7 +41,7 @@ We combined **behavioral ratings**, **multi-voxel fMRI data**, and **deep neural
 Test 
 
 
-![Overview of scene perception approaches](assets/images/0046_outdoor_manmade.jpg)
+![Overview of scene perception approaches](/assets/images/0046_outdoor_manmade.jpg)
 
 
 🧠 **Key finding**: Human visual cortex encodes affordances in a **task-independent** and **distinct way**, not explained by scene objects or materials alone.
