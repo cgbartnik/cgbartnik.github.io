@@ -13,11 +13,11 @@ tags:
   - deep learning
 excerpt: "Our fMRI and behavioral study reveals that human visual cortex distinctly represents locomotive affordances in scenes—beyond what current DNNs can model."
 image:
-  path: assets/images/pawel-czerwinski-beBBYVJ_4MM-unsplash.jpg
+  path: assets/images/michael-olsen-YWxfEBlvoiI-unsplash.jpg
   alt: "Thumbnail of fMRI study on action affordances"
 header:
-  overlay_image: assets/images/pawel-czerwinski-beBBYVJ_4MM-unsplash.jpg
-  caption: "Photo by Pawel Czerwinski on Unsplash"
+  overlay_image: assets/images/michael-olsen-YWxfEBlvoiI-unsplash.jpg
+  caption: "Photo by Michael Olsen on Unsplash"
   overlay_filter: 0.5
   actions:
     - label: "Read Abstract"
