@@ -1,0 +1,45 @@
+---
+title: "New Path Paper: Path in the world"
+date: 2025-03-15
+layout: single
+categories:
+  - research
+tags:
+  - publication
+  - neuroscience
+  - EEG
+  - affordances
+  - scene perception
+excerpt: "Our latest study investigates how the human brain and deep neural networks differ in processing locomotive action affordances in visual scenes."
+image:
+  path: assets/images/jonas-degener-RCS0EKm_yNs-unsplash.jpg
+  alt: "EEG study thumbnail"
+header:
+  overlay_image: assets/images/jonas-degener-RCS0EKm_yNs-unsplash.jpg
+  caption: "Photo by Jonas Degener on Unsplash"
+  overlay_filter: 0.3
+  actions:
+    - label: "View Abstract"
+      url: "https://www.biorxiv.org/content/10.1101/2025.03.14.642994v1.abstract"
+    - label: "Download PDF"
+      url: "/assets/papers/2025-bartnik-affordance-eeg.pdf"
+---
+
+In our latest EEG study, we investigate how the brain transforms visual inputs into neural representations of **locomotive action affordances** — such as walking, biking, or climbing — when viewing real-world scenes.
+
+We found that affordance representations emerge within 200 ms of seeing a scene, distinct from earlier responses tied to objects or low-level visual features. These affordances are processed in **scene-selective brain regions** like the OPA and PPA, but with clear temporal differences: OPA activates earlier, while PPA contributes later in the processing stream.
+
+<p align="center">
+  <img src="/assets/images/Path_overview.png" alt="Overview of scene perception approaches" width="1200"><br>
+  <em>Overview of object-, space-, and affordance-centered approaches to scene perception.</em>
+</p>
+
+
+Interestingly, **deep neural networks (DNNs)** — while predictive of early brain signals — fail to capture these later affordance-specific representations. This highlights a limitation of current AI models when it comes to modeling **goal-directed perception**.
+
+🔗 [View the abstract on bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.14.642994v1.abstract)  
+📄 [Download PDF](/assets/papers/2025-bartnik-affordance-eeg.pdf)
+
+---
+
+If you're interested in **affordance perception**, **EEG**, or bridging **neuroscience and AI**, this paper is for you!
