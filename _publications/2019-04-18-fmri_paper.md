@@ -13,10 +13,10 @@ tags:
   - deep learning
 excerpt: "Our fMRI and behavioral study reveals that human visual cortex distinctly represents locomotive affordances in scenes—beyond what current DNNs can model."
 image:
-  path: /assets/images/fmri_paper.png
+  path: /home/clemens-uva/cgbartnik.github.io/assets/images/0001_outdoor_natural.jpg
   alt: "Thumbnail of fMRI study on action affordances"
 header:
-  overlay_image: /assets/images/fmri_paper.png
+  overlay_image: /home/clemens-uva/cgbartnik.github.io/assets/images/0001_outdoor_natural.jpg
   caption: "Bartnik et al. (2024) — Affordance Representations in Brain and AI"
   overlay_filter: 0.3
   actions:
