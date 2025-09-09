@@ -30,6 +30,13 @@ In this new fMRI study, we show that **scene-selective areas of the brain — PP
 
 We combined **behavioral ratings**, **multi-voxel fMRI data**, and **deep neural network (DNN) models** to investigate how humans perceive the ways they can move through a scene — and how this compares to computational models.
 
+
+<p align="center">
+  <img src="assets/images/0046_outdoor_manmade.jpg" alt="Overview of scene perception approaches" width="600"><br>
+  <em>Overview of object-, space-, and affordance-centered approaches to scene perception.</em>
+</p>
+
+
 🧠 **Key finding**: Human visual cortex encodes affordances in a **task-independent** and **distinct way**, not explained by scene objects or materials alone.
 
 🤖 **DNNs fall short**: Popular deep models trained on object or scene recognition (including CLIP and ViTs) could only **partially explain** human representations. However, **multimodal models like GPT-4**, when prompted appropriately, show promise in better aligning with human behavior.
@@ -40,3 +47,6 @@ We combined **behavioral ratings**, **multi-voxel fMRI data**, and **deep neural
 ---
 
 This work expands our understanding of **affordance perception** and lays the groundwork for **more human-aligned visual AI models**.
+
+
+
