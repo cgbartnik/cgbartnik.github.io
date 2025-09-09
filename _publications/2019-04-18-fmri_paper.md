@@ -37,6 +37,13 @@ We combined **behavioral ratings**, **multi-voxel fMRI data**, and **deep neural
 </p>
 
 
+
+Test 
+
+
+![Overview of scene perception approaches](assets/images/0046_outdoor_manmade.jpg)
+
+
 🧠 **Key finding**: Human visual cortex encodes affordances in a **task-independent** and **distinct way**, not explained by scene objects or materials alone.
 
 🤖 **DNNs fall short**: Popular deep models trained on object or scene recognition (including CLIP and ViTs) could only **partially explain** human representations. However, **multimodal models like GPT-4**, when prompted appropriately, show promise in better aligning with human behavior.
