@@ -20,8 +20,8 @@ header:
   caption: "Photo by Michael Olsen on Unsplash"
   overlay_filter: 0.5
   actions:
-    - label: "Read Abstract"
-      url: "https://doi.org/10.1101/2024.05.15.594298"
+    - label: "View Paper"
+      url: "https://doi.org/10.1073/pnas.2414005122"
     - label: "Download PDF"
       url: "/assets/papers/2024-bartnik-affordances-fmri.pdf"
 ---
@@ -30,7 +30,7 @@ header:
 
 **Published as:**  
 Bartnik, C. G., Sartzetaki, C., Puigseslloses Sanchez, A., Molenkamp, E., Bommer, S., Vukšić, N., & Groen, I. I. A. (2024). *Distinct representation of locomotive action affordances in human behavior, brains and deep neural networks.* *Proceedings of the National Academy of Sciences (PNAS).*  
-Currently available as a preprint: [bioRxiv, 2024](https://doi.org/10.1101/2024.05.15.594298)  
+Published in PNAS: [PNAS, 2024](https://doi.org/10.1073/pnas.2414005122)  
 
 This study was also featured in a press release from the University of Amsterdam:  
 [What the human brain can do that AI can’t](https://www.uva.nl/en/content/news/press-releases/2025/06/what-the-human-brain-can-do-that-ai-cant.html)  
