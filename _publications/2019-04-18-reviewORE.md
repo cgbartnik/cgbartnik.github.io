@@ -1,5 +1,5 @@
 ---
-title: "New Review Paper: Scene Perception in the Human Brain"
+title: "Visual perception in the human brain"
 date: 2023-11-01
 layout: single
 categories:

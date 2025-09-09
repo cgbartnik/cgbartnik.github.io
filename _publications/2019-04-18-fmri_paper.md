@@ -1,5 +1,5 @@
 ---
-title: "New fMRI Paper: Distinct Representation of Locomotive Affordances in Brains and Models"
+title: "Representation of Locomotive Affordances in Brains and Models"
 date: 2024-07-14
 layout: single
 categories:
@@ -11,7 +11,7 @@ tags:
   - affordances
   - scene perception
   - deep learning
-excerpt: "Our fMRI and behavioral study reveals that human visual cortex distinctly represents locomotive affordances in scenes—beyond what current DNNs can model."
+excerpt: "Our fMRI and behavioral study published in PNAS reveals that human visual cortex distinctly represents locomotive affordances in scenes—beyond what current DNNs can model."
 image:
   path: assets/images/michael-olsen-YWxfEBlvoiI-unsplash.jpg
   alt: "Thumbnail of fMRI study on action affordances"
@@ -21,32 +21,43 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "Read Abstract"
-      url: "https://doi.org/10.1101/2024.05.15.594298"
+      url: "https://doi.org/10.1073/pnas.2411683121"
     - label: "Download PDF"
       url: "/assets/papers/2024-bartnik-affordances-fmri.pdf"
 ---
 
-In this new fMRI study, we show that **scene-selective areas of the brain — PPA and OPA — distinctly represent locomotive action affordances**, such as walking, biking, or swimming, based on visual input alone.
+## Overview  
+Our **fMRI and behavioral study**, published in *PNAS*, shows that **scene-selective areas of the brain — PPA and OPA — distinctly represent locomotive action affordances**, such as walking, biking, or swimming. These representations go beyond recognizing objects or surfaces and reflect the possibilities for movement that a scene affords.  
 
-We combined **behavioral ratings**, **multi-voxel fMRI data**, and **deep neural network (DNN) models** to investigate how humans perceive the ways they can move through a scene — and how this compares to computational models.
+By combining **behavioral ratings**, **multi-voxel fMRI data**, and **deep neural network (DNN) models**, we investigated how humans perceive these action opportunities — and compared them to what current AI models can capture.  
 
-
+---
 <p align="center">
-  <img src="/assets/images/fmri_website_image.png" alt="Overview of scene perception approaches" width="1200"><br>
-  <em>Overview of object-, space-, and affordance-centered approaches to scene perception.</em>
+  <img src="/assets/images/fmri_website_image.png" alt="fMRI overview of affordance representations" width="1000"><br>
+  <em>fMRI reveals distinct affordance representations in PPA and OPA, beyond objects and surfaces.</em>
 </p>
 
+## Why this matters  
+ **Key finding**: The human visual cortex encodes affordances in a **task-independent and distinct way**, not explained by objects or materials alone.  
 
-🧠 **Key finding**: Human visual cortex encodes affordances in a **task-independent** and **distinct way**, not explained by scene objects or materials alone.
-
-🤖 **DNNs fall short**: Popular deep models trained on object or scene recognition (including CLIP and ViTs) could only **partially explain** human representations. However, **multimodal models like GPT-4**, when prompted appropriately, show promise in better aligning with human behavior.
-
-🔗 [Read the abstract on bioRxiv](https://doi.org/10.1101/2024.05.15.594298)  
-📄 [Download the PDF](/assets/papers/2024-bartnik-affordances-fmri.pdf)
+ **AI models fall short**: State-of-the-art DNNs trained on object or scene recognition (e.g., CLIP, ViTs) could only partially explain human brain representations. Encouragingly, **multimodal models like GPT-4**, when prompted appropriately, show potential for better alignment.  
 
 ---
 
-This work expands our understanding of **affordance perception** and lays the groundwork for **more human-aligned visual AI models**.
+<p align="center">
+  <img src="/assets/images/fmri_website_image.png" alt="fMRI overview of affordance representations" width="1000"><br>
+  <em>fMRI reveals distinct affordance representations in PPA and OPA, beyond objects and surfaces.</em>
+</p>
 
+---
 
+## Further reading  
+This research was also featured in a **press release from the University of Amsterdam**:  
+ [What the human brain can do that AI can’t](https://www.uva.nl/en/content/news/press-releases/2025/06/what-the-human-brain-can-do-that-ai-cant.html)  
 
+🔗 [Read the abstract at PNAS](https://doi.org/10.1073/pnas.2411683121)  
+📄 [Download the PDF](/assets/papers/2024-bartnik-affordances-fmri.pdf)  
+
+---
+
+This work expands our understanding of **affordance perception** and lays the groundwork for **more human-aligned visual AI models**.  
