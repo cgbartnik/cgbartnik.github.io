@@ -13,10 +13,10 @@ tags:
   - deep learning
 excerpt: "Our fMRI and behavioral study reveals that human visual cortex distinctly represents locomotive affordances in scenes—beyond what current DNNs can model."
 image:
-  path: assets/images/0046_outdoor_manmade.jpg
+  path: /home/clemens-uva/cgbartnik.github.io/assets/images/mountain_range_blurry.png
   alt: "Thumbnail of fMRI study on action affordances"
 header:
-  overlay_image: assets/images/0046_outdoor_manmade.jpg
+  overlay_image: /home/clemens-uva/cgbartnik.github.io/assets/images/mountain_range_blurry.png
   caption: "Bartnik et al. (2024) — Affordance Representations in Brain and AI"
   overlay_filter: 0.3
   actions:
@@ -32,16 +32,9 @@ We combined **behavioral ratings**, **multi-voxel fMRI data**, and **deep neural
 
 
 <p align="center">
-  <img src="/assets/images/0046_outdoor_manmade.jpg" alt="Overview of scene perception approaches" width="600"><br>
+  <img src="/assets/images/fmri_website_image.png" alt="Overview of scene perception approaches" width="800"><br>
   <em>Overview of object-, space-, and affordance-centered approaches to scene perception.</em>
 </p>
-
-
-
-Test 
-
-
-![Overview of scene perception approaches](/assets/images/0046_outdoor_manmade.jpg)
 
 
 🧠 **Key finding**: Human visual cortex encodes affordances in a **task-independent** and **distinct way**, not explained by scene objects or materials alone.
