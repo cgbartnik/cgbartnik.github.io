@@ -11,7 +11,7 @@ tags:
   - affordances
   - scene perception
   - deep learning
-excerpt: "Our fMRI and behavioral study, published in PNAS, reveals that human visual cortex distinctly represents locomotive affordances in scenes—beyond what current DNNs can model."
+excerpt: "fMRI results published in PNAS"
 image:
   path: assets/images/michael-olsen-YWxfEBlvoiI-unsplash.jpg
   alt: "Thumbnail of fMRI study on action affordances"
