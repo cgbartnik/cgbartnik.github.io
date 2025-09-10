@@ -1,6 +1,6 @@
 ---
 title: "Conference Talk: Scene Perception and Affordances"
-date: 2025-09-10
+date: 2024-07-15
 layout: single
 categories:
   - research
