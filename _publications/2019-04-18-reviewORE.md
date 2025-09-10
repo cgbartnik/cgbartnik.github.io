@@ -18,6 +18,7 @@ header:
   overlay_image: assets/images/pawel-czerwinski-beBBYVJ_4MM-unsplash.jpg
   caption: "Photo by Pawel Czerwinski on Unsplash"
   overlay_filter: 0.5
+  teaser: /assets/images/ORE_preview.png
   actions:
     - label: "View Paper"
       url: "https://oxfordre.com/neuroscience/display/10.1093/acrefore/9780190264086.001.0001/acrefore-9780190264086-e-437"
