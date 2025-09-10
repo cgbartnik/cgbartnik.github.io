@@ -44,7 +44,7 @@ When we look at a scene—a mountain trail, a swimming pool, or a city street—
 To answer this, we combined three approaches (see figure below): behavioral annotations of action possibilities, fMRI measurements of brain activity, and computational modeling with deep neural networks. Participants viewed 90 images of real-world indoor and outdoor images and indicated which actions each environment afforded. At the same time, we measured brain activity in scene-selective regions such as the parahippocampal place area (PPA) and occipital place area (OPA). We then compared these human data to a wide range of deep neural networks, from convolutional models to multimodal vision–language systems like CLIP and GPT-4.  
 
 <p align="center">
-  <img src="/assets/images/15ca0ed1-b697-4fa6-8f57-f2233b0153ea.png" alt="Overview of methods and results for affordance study" width="1000"><br>
+  <img src="/assets/images/fmri_website_image.png" alt="Overview of methods and results for affordance study" width="1000"><br>
   <em>Study design: examples of stimuli, behavioral annotation tasks, fMRI responses, DNN activations, and representational similarity analysis (RSA).</em>
 </p>
 
