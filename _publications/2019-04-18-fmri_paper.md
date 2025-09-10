@@ -19,7 +19,7 @@ header:
   overlay_image: assets/images/michael-olsen-YWxfEBlvoiI-unsplash.jpg
   caption: "Photo by Michael Olsen on Unsplash"
   overlay_filter: 0.5
-  teaser: /assets/images/PNAS_teaser.png
+thumbnail: /assets/images/PNAS_teaser.png
   actions:
     - label: "View Paper"
       url: "https://doi.org/10.1073/pnas.2414005122"
