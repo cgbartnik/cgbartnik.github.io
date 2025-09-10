@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 collection: publications
 #author_profile: true
-entries_layout: grid
+entries_layout: masonry
+show_teasers: true
 classes: wide
 ---
 
