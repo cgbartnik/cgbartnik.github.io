@@ -1,5 +1,5 @@
 ---
-title: "New Path Paper: Path in the world"
+title: "Human and Deep Neural Network Alignment in Navigational Affordance Perception"
 date: 2025-03-15
 layout: single
 categories:
@@ -10,7 +10,7 @@ tags:
   - EEG
   - affordances
   - scene perception
-excerpt: "Our latest study investigates how the human brain and deep neural networks differ in processing locomotive action affordances in visual scenes."
+excerpt: "Here we investigate path trajectory representations and how they align with DNNs and explainable AI representations."
 image:
   path: assets/images/jonas-degener-RCS0EKm_yNs-unsplash.jpg
   alt: "EEG study thumbnail"
