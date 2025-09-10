@@ -26,9 +26,20 @@ header:
       url: "/assets/papers/2025-bartnik-affordance-eeg.pdf"
 ---
 
-In our latest EEG study, we investigate how the brain transforms visual inputs into neural representations of **locomotive action affordances** — such as walking, biking, or climbing — when viewing real-world scenes.
 
-We found that affordance representations emerge within 200 ms of seeing a scene, distinct from earlier responses tied to objects or low-level visual features. These affordances are processed in **scene-selective brain regions** like the OPA and PPA, but with clear temporal differences: OPA activates earlier, while PPA contributes later in the processing stream.
+# Human and Deep Neural Network Alignment in Navigational Affordance Perception
+
+**Venue:** First ICLR 2024 Workshop on Representational Alignment (Re-Align), non-archival  
+**Authors:** Clemens G. Bartnik & Iris I. A. Groen (University of Amsterdam)  
+**Paper:** [OpenReview PDF](https://openreview.net/pdf?id=FS5Lq9Flep)
+
+---
+
+Humans effortlessly navigate the world, selecting different routes and trajectories through complex environments. Research on navigational affordance representations was first advanced by Bonner & Epstein (2017), who proposed that path trajectories provide a natural way to capture how environments guide movement.
+
+Whereas earlier studies focused mainly on indoor settings and walking as the primary action, we broadened the scope by collecting path annotations for a diverse dataset of 231 images, equally divided across indoor, outdoor man-made, and outdoor natural scenes. This allowed us to test whether the layer activations of state-of-the-art deep neural networks (DNNs) align with these aggregated human path representations.
+
+In addition, we used explainable AI methods to probe what kinds of visual information support the networks’ representations—asking whether DNNs capture affordance-relevant structure, or whether their alignment remains dominated by object-based cues.
 
 <p align="center">
   <img src="/assets/images/Path_overview.png" alt="Overview of scene perception approaches" width="1200"><br>
@@ -36,11 +47,11 @@ We found that affordance representations emerge within 200 ms of seeing a scene,
 </p>
 
 
-Interestingly, **deep neural networks (DNNs)** — while predictive of early brain signals — fail to capture these later affordance-specific representations. This highlights a limitation of current AI models when it comes to modeling **goal-directed perception**.
+To assess the consistency of human path annotations, we used the Fréchet distance as a quantitative measure of similarity between trajectories. This metric confirmed that participants’ paths were highly consistent across images, supporting the idea that the annotations capture meaningful navigational structure rather than noise. While the Fréchet distance has its limitations, the results make clear that these paths are far from random—and provide a valuable benchmark against which to evaluate DNN representations.
 
-🔗 [View the abstract on bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.14.642994v1.abstract)  
-📄 [Download PDF](/assets/papers/2025-bartnik-affordance-eeg.pdf)
+
+## Reference
+**Bartnik, C. G., & Groen, I. I. A.** (2024). *Human and Deep Neural Network Alignment in Navigational Affordance Perception.* First ICLR Workshop on Representational Alignment (Re-Align), non-archival. [OpenReview](https://openreview.net/pdf?id=FS5Lq9Flep)
 
 ---
 
-If you're interested in **affordance perception**, **EEG**, or bridging **neuroscience and AI**, this paper is for you!
