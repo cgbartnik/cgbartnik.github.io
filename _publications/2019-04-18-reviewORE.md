@@ -10,7 +10,7 @@ tags:
   - scene perception
   - review
   - ORE
-excerpt: "Our new review paper on scene perception just came out in the Oxford Research Encyclopedia of Neuroscience."
+excerpt: "Our review paper on scene perception just came out in the Oxford Research Encyclopedia of Neuroscience."
 image:
   path: assets/images/pawel-czerwinski-beBBYVJ_4MM-unsplash.jpg
   alt: "Scene perception paper thumbnail"
