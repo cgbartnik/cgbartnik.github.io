@@ -3,8 +3,8 @@ layout: collection
 title: "Publications"
 permalink: /publications/
 collection: publications
-entries_layout: grid
-classes: grid--2
+entries_layout: list
+classes: wide
 show_teasers: true
 ---
 
