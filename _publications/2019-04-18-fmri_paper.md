@@ -27,7 +27,7 @@ header:
       url: "/assets/papers/2024-bartnik-affordances-fmri.pdf"
 ---
 
-# Chapter 3: Representation of locomotive action affordances in human behavior, brains and deep neural networks  
+# Representation of locomotive action affordances in human behavior, brains and deep neural networks  
 
 **Published as:**  
 Bartnik, C. G., Sartzetaki, C., Puigseslloses Sanchez, A., Molenkamp, E., Bommer, S., Vukšić, N., & Groen, I. I. A. (2024). *Distinct representation of locomotive action affordances in human behavior, brains and deep neural networks.* *Proceedings of the National Academy of Sciences (PNAS).*  
