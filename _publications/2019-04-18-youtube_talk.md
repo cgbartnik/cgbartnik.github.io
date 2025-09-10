@@ -15,9 +15,9 @@ header:
 
 # Conference Talk: Scene Perception and Affordances  
 
-I recently gave a talk at [Conference XYZ] where I discussed how the human brain perceives real-world affordances in scenes.  
+I recently gave a Contributed talk at CCN 2023 where I discussed how the human brain perceives real-world affordances in scenes.  
 
-{% include video id="pwFh_b8hk-c" provider="youtube" %}
+{% include video id="pwFh_b8hk-c?start=4154" provider="youtube" %}
 
 ---
 
