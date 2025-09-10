@@ -122,7 +122,9 @@ defaults:
 #  type: liquid
 #  path: /tags/
 
+# _config.yml
 collections:
   publications:
     output: true
-    permalink: /publications/:title/
+    permalink: /:collection/:path/
+    layout: collection
