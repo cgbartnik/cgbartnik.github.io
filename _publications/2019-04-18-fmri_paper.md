@@ -24,7 +24,7 @@ header:
     - label: "View Paper"
       url: "https://doi.org/10.1073/pnas.2414005122"
     - label: "Download PDF"
-      url: "/assets/papers/2024-bartnik-affordances-fmri.pdf"
+      url: "https://drive.google.com/file/d/1ldod4JAf8JFMuliCHBpUrv0IbWnGwS6X/view?usp=sharing"
 ---
 
 # Representation of locomotive action affordances in human behavior, brains and deep neural networks  
@@ -73,6 +73,6 @@ These results demonstrate that the brain’s visual system represents not only *
 ---
 
 [Read the preprint on bioRxiv](https://doi.org/10.1101/2024.05.15.594298)  
-[Download the PDF](/assets/papers/2024-bartnik-affordances-fmri.pdf)  
+[Download the PDF](https://drive.google.com/file/d/1ldod4JAf8JFMuliCHBpUrv0IbWnGwS6X/view?usp=sharing)  
 [Read the UvA press release](https://www.uva.nl/en/content/news/press-releases/2025/06/what-the-human-brain-can-do-that-ai-cant.html)  
 
