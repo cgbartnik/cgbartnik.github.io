@@ -41,7 +41,7 @@ This study was also featured in a press release from the University of Amsterdam
 ## Overview  
 When we look at a scene—a mountain trail, a swimming pool, or a city street—we instantly know how we could move through it: walking, swimming, cycling, or perhaps not at all. This seemingly effortless judgment, known as *locomotive affordance perception*, motivated our research. We asked: how does the brain represent these action possibilities, and can current AI models capture them?  
 
-To answer this, we combined three approaches (see figure below): behavioral annotations of action possibilities, fMRI measurements of brain activity, and computational modeling with deep neural networks. Participants viewed hundreds of real-world indoor and outdoor images and indicated which actions each environment afforded. At the same time, we measured brain activity in scene-selective regions such as the parahippocampal place area (PPA) and occipital place area (OPA). We then compared these human data to a wide range of neural networks, from convolutional models to multimodal vision–language systems like CLIP and GPT-4.  
+To answer this, we combined three approaches (see figure below): behavioral annotations of action possibilities, fMRI measurements of brain activity, and computational modeling with deep neural networks. Participants viewed 90 images of real-world indoor and outdoor images and indicated which actions each environment afforded. At the same time, we measured brain activity in scene-selective regions such as the parahippocampal place area (PPA) and occipital place area (OPA). We then compared these human data to a wide range of deep neural networks, from convolutional models to multimodal vision–language systems like CLIP and GPT-4.  
 
 <p align="center">
   <img src="/assets/images/15ca0ed1-b697-4fa6-8f57-f2233b0153ea.png" alt="Overview of methods and results for affordance study" width="1000"><br>
@@ -53,14 +53,14 @@ To link these different data sources, we used *Representational Similarity Analy
 ---
 
 ## What we found  
-Behavioral ratings revealed that people cluster environments into structured dimensions of action possibilities—roughly separating land-based, water-based, and climbing-related movements. Crucially, fMRI data showed that PPA and OPA encode these affordances automatically, even when participants were not explicitly thinking about actions. In the figure, this corresponds to the colored brain maps and bar plots demonstrating significant RSA correlations for affordances in PPA and OPA.  
+Behavioral ratings revealed that people cluster environments into structured dimensions of action possibilities—roughly separating land-based, water-based, and climbing-related movements. Crucially, fMRI data showed that PPA and OPA encode these affordances automatically, even when participants were not explicitly thinking about actions. In the figure, this corresponds to the brain maps showing the scene-selective voxels that correlate with the affordance representations. 
 
-When we turned to AI models, the gap became clear. Classic convolutional networks aligned well with object-based information but poorly with action affordances. Vision transformers and multimodal models improved alignment somewhat, especially when trained with affordance labels or language embeddings, yet none fully captured the structure observed in human brains and behavior. The figure illustrates these comparisons, showing how DNNs and GPT-4 outputs correlate more strongly with object representations than with affordances.  
+Prior research claimed that CNNs learn affordance representations. But we find that classic convolutional networks aligned well with object-based information but poorly with action affordances. Vision transformers and multimodal models improved alignment somewhat, especially when trained with affordance labels or language embeddings, yet none fully captured the representational structure observed in human brains and behavior. The figure illustrates these comparisons, showing how DNNs and GPT-4 outputs correlate more strongly with object representations than with affordances.  
 
 ---
 
 ## Why this matters  
-These results demonstrate that the brain’s visual system represents not only *what* is in a scene but also *what can be done* within it. Affordance perception is a fundamental and automatic property of human vision that current AI models only approximate. By better understanding how the brain encodes action possibilities, we may find new pathways to develop AI systems that are more efficient, sustainable, and aligned with human ways of interacting with the world.  
+These results demonstrate that the brain’s visual system represents not only *what* is in a scene but also *what can be done* within it. Affordance perception is a fundamental and automatic property of human vision that current AI models can not really capture yet. By better understanding how the brain encodes action possibilities, we may find new pathways to develop AI systems that are more efficient, sustainable, and aligned with human ways of interacting with the world.  
 
 ---
 
