@@ -18,6 +18,7 @@ header:
   overlay_image: assets/images/jonas-degener-RCS0EKm_yNs-unsplash.jpg
   caption: "Photo by Jonas Degener on Unsplash"
   overlay_filter: 0.3
+  teaser: /assets/images/ICLR_teaser.png
   actions:
     - label: "View Abstract"
       url: "https://www.biorxiv.org/content/10.1101/2025.03.14.642994v1.abstract"
