@@ -124,7 +124,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 200px;   // smaller fixed size OR remove entirely
+  width: 100px;   // smaller fixed size OR remove entirely
   height: auto;
 
   @include breakpoint($large) {
@@ -136,7 +136,7 @@
   img {
     width: 100%;
     height: auto;
-    max-width: 200px;  // smaller max to prevent overflow
+    max-width: 100px;  // smaller max to prevent overflow
     border-radius: 0 !important;
     object-fit: cover;
 
