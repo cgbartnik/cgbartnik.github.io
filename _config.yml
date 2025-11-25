@@ -60,7 +60,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Clemens Georg Bartnik"
+  name   : "Clemens Bartnik"
   avatar : "/new_profile_picture.png"
   bio    : "Cognitive computational Neuroscience"
   location         : "Amsterdam - The Netherlands"
