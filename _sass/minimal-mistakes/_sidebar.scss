@@ -124,30 +124,36 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 100px;   // smaller fixed size OR remove entirely
+  width: 480px; /* 280px */
   height: auto;
 
   @include breakpoint($large) {
     display: block;
-    width: 100%;   // allow shrinking
+    width: auto;
     height: auto;
   }
 
   img {
     width: 100%;
-    height: auto;
-    max-width: 100px;  // smaller max to prevent overflow
-    border-radius: 0 !important;
-    object-fit: cover;
+    max-width: 520px; /* 320px */
+    border-radius: 0;
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
-      max-width: 180px;  // fit sidebar nicely
     }
   }
 }
 
+.author__content {
+  display: table-cell;
+  vertical-align: top;
+  padding-inline: 15px 25px;
+  line-height: 1;
+
+  @include breakpoint($large) {
+    display: block;
+    width
 .author__name {
   margin: 0;
 
